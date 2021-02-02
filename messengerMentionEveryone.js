@@ -1,3 +1,6 @@
+/** 
+* this does not work yet
+*/
 function tagEveryone() {
     let allSpan = document.querySelectorAll('span.d2edcug0.hpfvmrgz.qv66sw1b.c1et5uql.rrkovp55.a8c37x1j.keod5gw0.nxhoafnm.aigsh9s9.d3f4x2em.fe6kdd0r.mau55g9w.c8b282yb.iv3no6db.jq4qci2q.a3bd9o3v.ekzkrbhg.oo9gr5id.hzawbc8m');
     let start = 0;
